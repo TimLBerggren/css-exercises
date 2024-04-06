@@ -1,0 +1,13 @@
+.button, .button-opposite {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.button {
+    color: whitesmoke;
+    background-color: black;
+    font-weight: 700;
+}
+.button-opposite {
+    background-color: yellow;
+}
